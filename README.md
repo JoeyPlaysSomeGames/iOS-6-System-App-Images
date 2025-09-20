@@ -7,3 +7,4 @@ They were taken off of my iPod touch 4th generation with iOS 6.1.6
 This is a great resource for people wanting to make official looking mockups of iOS 6 Applications and services :3 
 
 
+![A picture of my iPod touch](myipod.PNG)
