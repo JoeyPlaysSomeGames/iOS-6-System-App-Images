@@ -8,3 +8,6 @@ This is a great resource for people wanting to make official looking mockups of 
 
 
 ![A picture of my iPod touch](myipod.JPG)
+
+
+^^^ THE iPod touch itself
